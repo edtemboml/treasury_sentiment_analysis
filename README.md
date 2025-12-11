@@ -7,7 +7,7 @@ A collection of Jupyter NoteBooks Used for Sentiment Analysis of U.S. Treasury S
 
 > **🚧 Data Sources Coming Soon**  
 > The datasets and data sources used in this analysis are currently being prepared and will be made available shortly. This includes:
-> - Federal Reserve speeches, testimony, and FOMC minutes
+> - Federal Reserve speeches, testimony, and FOMC Data
 > - US Treasury yield data (DGS series)
 > - Preprocessed sentiment scores and features
 
