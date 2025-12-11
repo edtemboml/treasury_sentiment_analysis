@@ -19,6 +19,7 @@ A collection of Jupyter NoteBooks Used for Sentiment Analysis of U.S. Treasury S
 > - ✅ XGBoost model with custom directional loss function
 > - ✅ SHAP analysis for feature importance
 > - ✅ Wavelet denoising and transform implementations
+> - ✅ LLM as Judge using GEMINI 2.5 Flash Batch API
 > - 🔄 Data sources documentation in progress
 > - 🔄 Reproducibility guides coming soon
 
